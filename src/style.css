@@ -9,14 +9,14 @@ body {
 }
 
 .main {
-  /* background-image: url('.asset/cold-bg.jpeg'); */
+  background-image: url('.assets/images/foggy-bg.jpg');
   background-size: cover;
   background-position: bottom;
   transition: 0.4 ease;
 }
 
 .main.warm {
-  /* background-image: url('./assets/warm-bg.jpg'); */
+  background-image: url('./assets/images/cloudy-bg.jpg');
 }
 
 main {
